@@ -1,6 +1,6 @@
-# Sourcecode
+# 输入草案 Draft
 
-# Get PID parameters
+# Get PID setting parameters
 print(
     "Input P value"
 )
